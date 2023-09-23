@@ -1,1 +1,1 @@
-# practicle-sessions
+# Practical sessions
