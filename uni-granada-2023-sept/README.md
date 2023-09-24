@@ -1,4 +1,4 @@
 # Practical sessions
 
-This repository contains the notebook of the practical session on "Mininal Start to Deep Learning".
+This repository contains the notebook of the practical session on "Minimal Start to Deep Learning".
 
